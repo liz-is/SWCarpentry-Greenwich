@@ -8,3 +8,10 @@ Waddington's epigenetic landscape concept: this comes from a famous image and re
 Adrian Bird: epigenetics is what you call it when you don't know what's going on
 
 "like a nice rug: you just sweep everything under it" - I don't remember who said this
+
+Epigenetics definitions are very variable, and have changed over time. Perhaps we should retire this word - but there are whole journals named after it.
+
+Aspects of epigenetics:
+
+- histones
+- DNA methylation
